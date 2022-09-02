@@ -1,16 +1,16 @@
 ### Hi there 👋
+My name is Belal Tamraz I'm full time student at rairtain vally community college. I'm currently stduying information and technolgy.
 
-<!--
-**belaltamraz/belaltamraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MatrixTheGIF](https://user-images.githubusercontent.com/112657236/188039745-15c1f769-8f5e-4d64-bead-dbe3cdddac73.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is some information about me
+
+- 👨‍💻 I’m currently working on getting my degree in infromation and technolgy 
+- 🕸️ I’m currently learning web page development 
+- 👯 I’m looking to collaborate on making my own website
+- ➗ I’m looking for help with :precalculus 1
+- 💬 Ask me about anything 
+- 📧 How to reach me: Email
+- 🏈 Fun fact: I watch every sport imaginable 
+
